@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://tupig-7.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -104,5 +104,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/tupig-7/tupig-7.github.io #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: git@github.com:tupig-7/tupig-7.github.io.git
   branch: gh-pages
