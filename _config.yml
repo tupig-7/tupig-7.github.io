@@ -105,4 +105,4 @@ theme: fluid
 deploy:
   type: git
   repo: git@github.com:tupig-7/tupig-7.github.io.git
-  branch: gh-pages
+  branch: main
