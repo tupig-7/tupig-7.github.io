@@ -104,5 +104,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:tupig-7/tupig-7.github.io.git
-  branch: main
+  repo: 
+    github: https://github.com/tupig-7/tupig-7.github.io.git,main
