@@ -103,4 +103,6 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/tupig-7/tupig-7.github.io #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  branch: gh-pages
